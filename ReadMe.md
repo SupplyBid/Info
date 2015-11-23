@@ -26,6 +26,7 @@ We're technology agnostic and therefore are in the position of utilizing benefit
 - Angularjs
 - Polymer
 - Angular Material
+- React
 
 ###Hosting and deployments
 
