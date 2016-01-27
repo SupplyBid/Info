@@ -50,6 +50,6 @@ We're technology agnostic and therefore are in the position of utilizing benefit
 ##Careers
 
 We are always looking for great software engineers.
-To be considered for a position, please complete one of our challenges (available as their own repositories) by forking the repo, making good commits and sending an email to matthias@supplyhub.com upon completion. Questions can be asked as issues or in email form, too.
+To be considered for a position, please complete one of our challenges (available as their own repositories) by forking the repo, making good commits and sending an email to sam@supplyhub.com upon completion. Questions can be asked as issues or in email form, too.
 
 While we're going to hopefully be able to integrate remote employees into our team, we are unable to do so at the moment. So you'd either have to live in or are willing to relocate to the Los Angeles (California, USA) area.
